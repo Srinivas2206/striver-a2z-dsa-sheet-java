@@ -1,0 +1,20 @@
+# Ignore compiled class files
+*.class
+
+# Ignore package files
+*.jar
+*.war
+*.ear
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# VS Code settings (optional, if you're using VS Code)
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# OS-specific folders
+Thumbs.db
