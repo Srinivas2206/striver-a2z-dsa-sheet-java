@@ -6,7 +6,7 @@ import java.util.Map;
 
 public class MostFrequentElement {
     public static int mostFrequentElement(int[] nums) {
-        int n = nums.length;
+
         HashMap<Integer, Integer> mp = new HashMap<>();
         for (int num : nums) {
             mp.put(num, mp.getOrDefault(num, 0) + 1);
