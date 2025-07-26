@@ -22,6 +22,7 @@ All problems are implemented with clean code, proper comments, time & space comp
 
 - [X] Basic Maths
 - [X] Basic Recursion
-- [ ] Basic Hashing
+- [X] Basic Hashing
+- [ ] Sorting
 
 
