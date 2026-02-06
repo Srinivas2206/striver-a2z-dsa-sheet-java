@@ -23,6 +23,6 @@ All problems are implemented with clean code, proper comments, time & space comp
 - [X] Basic Maths
 - [X] Basic Recursion
 - [X] Basic Hashing
-- [ ] Sorting
-
+- [X] Sorting
+- [ ] Arrays
 
