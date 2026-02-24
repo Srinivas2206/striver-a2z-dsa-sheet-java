@@ -24,5 +24,5 @@ All problems are implemented with clean code, proper comments, time & space comp
 - [X] Basic Recursion
 - [X] Basic Hashing
 - [X] Sorting
-- [ ] Arrays
+- [X] Arrays
 
