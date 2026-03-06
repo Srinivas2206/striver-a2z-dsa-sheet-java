@@ -1,3 +1,5 @@
+package Arrays.Hard;
+
 public class CountInversions {
     public long numberOfInversions(int[] nums) {
         int n = nums.length;
