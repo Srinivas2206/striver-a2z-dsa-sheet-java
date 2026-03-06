@@ -17,6 +17,7 @@ public class CountDigits {
         int n = sc.nextInt();
         int cnt = countDigit(n);
         System.out.println(cnt);
+        sc.close();
     }
 }
 
