@@ -12,5 +12,6 @@ This repository contains my journey through the famous [Striver's A2Z DSA Sheet]
 - [X] Basic Hashing
 - [X] Sorting
 - [X] Arrays
-- [ ] Binary Search
+- [X] Binary Search
+- [ ] Linked Lists
 
